@@ -1,0 +1,40 @@
+.btn{
+    background-color: rgb(214, 99, 185);
+    color; white;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;   
+    margin-top: 20px; 
+}
+
+ .tabel{
+    background-color:rgb(165, 8, 185);
+    margin: 10px;
+    border-style: double;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: Poppins;
+    font-size: smaller;
+ }
+
+ .header{
+     color: rgb(248, 252, 251);
+     padding-bottom: 20px;
+     font-size: larger;
+ }
+
+ .hsl{
+     background-color: rgb(209, 16, 248);
+     border-style: unset;
+     font-family: Poppins;
+     font-weight: bold;   
+ }
+
+ .input{
+    border-color: rgb(180, 4, 180);
+    border-radius: 10px;
+    font-family: Poppins;
+ }
+ 
